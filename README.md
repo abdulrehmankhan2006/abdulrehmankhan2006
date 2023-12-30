@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1701907200&v=beta&t=OD7XwKW1pKpQj8FiIhKo8OKHi1iujMZ_eGf9A0DkI-U)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/03/86/71/99/1000_F_386719952_z9dPEXMTaiCpPcXhGK2VVmHNbz4uHbs6.jpg)
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
