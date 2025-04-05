@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **BootStrap,JQUERY,HTML5,CSS,JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at [https://abdulrehmankhan.mystrikingly.com/](https://abdulrehmankhan.mystrikingly.com/)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **kabdulrehman755@gmail.com**
 
